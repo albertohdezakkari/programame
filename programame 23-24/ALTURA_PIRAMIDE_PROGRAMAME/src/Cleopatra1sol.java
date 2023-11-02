@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
-public class Main {
+public class Cleopatra1sol{
     public static void main(String[] args) throws Exception{
         /*Bucle infinito hasta que se de
                     1 condición*/
